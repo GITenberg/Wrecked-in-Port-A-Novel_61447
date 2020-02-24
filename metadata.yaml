@@ -1,0 +1,28 @@
+_repo: Wrecked-in-Port-A-Novel_61447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yates, Edmund
+    aliases:
+    - Yates, Edmund Hodgson
+    - Yates, E. (Edmund)
+    birthdate: 1831
+    deathdate: 1894
+    gutenberg_agent_id: '50007'
+    url: http://www.gutenberg.org/2009/agents/50007
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Yates
+description: ''
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Wrecked in Port: A Novel'
+url: http://www.gutenberg.org/ebooks/61447
